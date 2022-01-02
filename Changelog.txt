@@ -1,0 +1,14 @@
+Changes
+* Everything spawns pristine
+* Added Cannabis Seeds
+* Mags spawn at least 90% full
+* Guns spawn with mags
+* Increased Heli crash site from 3 to 5
+* 4x4's spawn full with
+- 1 can gas
+- 4 canteens
+* Trucks spawn fully loaded
+
+
+ToDos
+??
