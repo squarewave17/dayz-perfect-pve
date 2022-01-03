@@ -1,6 +1,7 @@
 Changes
 * Everything spawns pristine
 * Added Cannabis Seeds
+* Stamina Increased
 * Mags spawn at least 90% full
 * Guns spawn with mags
 * Increased Heli crash site from 3 to 5
