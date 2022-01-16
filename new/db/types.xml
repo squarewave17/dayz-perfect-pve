@@ -13,10 +13,10 @@
         <usage name="Military"/>
     </type>
     <type name="ACOGOptic_6x">
-        <nominal>4</nominal>
+        <nominal>6</nominal>
         <lifetime>14400</lifetime>
         <restock>1800</restock>
-        <min>2</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -28,10 +28,10 @@
         <value name="Tier3"/>
     </type>
     <type name="AK101">
-        <nominal>2</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -123,10 +123,10 @@
         <usage name="Military"/>
     </type>
     <type name="AKM">
-        <nominal>1</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -391,10 +391,10 @@
         <category name="weapons"/>
     </type>
     <type name="ASVAL">
-        <nominal>1</nominal>
+        <nominal>8</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>1</min>
+        <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15298,8 +15298,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
-        <quantmin>10</quantmin>
-        <quantmax>50</quantmax>
+        <quantmin>90</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
@@ -16144,8 +16144,8 @@
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
-        <quantmin>5</quantmin>
-        <quantmax>20</quantmax>
+        <quantmin>90</quantmin>
+        <quantmax>100</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
